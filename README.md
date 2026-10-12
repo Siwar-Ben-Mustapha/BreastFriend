@@ -714,7 +714,7 @@ Le projet associe :
 ## Contact
 
 - **GitHub:** http://github.com/Siwar-Ben-Mustapha
-- **LinkedIn:**  linkedin.com/in/siwar-ben-mustapha
+- **LinkedIn:** www.linkedin.com/in/siwar-ben-mustapha
 - **Email:** siwar.ben-mustapha@dauphine.eu
 - **Portfolio:**  www.siwarbenmustapha.me
 
